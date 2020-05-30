@@ -1,5 +1,5 @@
-token = "NzE2MjI5ODA3NTg2OTM0ODM2.XtIvKQ.BQMEdASb7gaEkDg8vY6fRHpBSyw" 
-userid = "582630359028727809" #You own UserID
+token = "your_bot_token" 
+userid = "your_id" #You own UserID
 prefix = "~" #Prefix for command
 
 
