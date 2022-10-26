@@ -1,2 +1,2 @@
 # Snooze
- Snooze is a revolutionary musical bot for Discord.
+ Snooze is a revolutionary musical bot for Discord .
